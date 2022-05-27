@@ -1,0 +1,27 @@
+body{
+		background-color:#ecf0f1;	
+		font-family:arial;
+	}
+.header h1 {
+		color:red;
+     	font-family:arial;
+    	font-weight:bold;
+		padding:20px;
+		text-align:center;
+		
+	}
+.header{
+	background-color: #3498db;
+}
+
+.content{
+		background-color:#2980b9;
+		width:500px;
+		padding:5px;
+		align-content:center;
+	}
+#footer{
+		background-color:black;
+		color :white
+		
+	}
